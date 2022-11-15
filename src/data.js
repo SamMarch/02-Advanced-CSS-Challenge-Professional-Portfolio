@@ -24,12 +24,12 @@ export const projects = [
     link: "https://project-2-character-creator.herokuapp.com/",
   },
   {
-    title: "Coming Soon...",
-    subtitle: "TBD",
+    title: "Coin Charter",
+    subtitle: "MERN Stack",
     description:
-      "Saving this spot for another project I'm working on! Stay tuned!",
-    image: "./project-4.gif",
-    link: "#",
+      "A full stack web application that allows users to connect and share information about cryptocurrency. Built with MongoDB, Express, React, and Node.",
+    image: "./project-4.png",
+    link: "https://coin-charter-au.herokuapp.com/",
   },
 ];
 
@@ -44,7 +44,7 @@ export const testimonials = [
   },
   {
     quote:
-      "I am attending the Full Stack Web Development Bootcamp at the University of Adelaide. The course is very well structured and the instructors are very helpful. I would highly recommend this course!",
+      "I have completed the Full Stack Web Development Bootcamp at the University of Adelaide. The course is very well structured and the instructors are very helpful. I would highly recommend this course!",
     image:
       "https://coursereport-production.imgix.net/uploads/school/logo/1316/original/Adelaide-Logo.png?w=200&h=200",
     name: "Full Stack Bootcamp",
