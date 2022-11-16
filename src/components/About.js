@@ -13,10 +13,10 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             Having spent most my working life in the hospitality industry, I am
             used to a high pressure environment and working to tight deadlines,
-            are a quick learner and are always looking to improve my skills. I
-            am currently attending a full-stack wed development bootcamp with
-            Adelaide University, and am looking for a junior developer role to
-            gain experience and further my career.
+            am a quick learner and are always looking to improve my skills. I
+            have completed a full-stack wed development course with Adelaide
+            University, and am looking for a junior developer role to gain
+            experience and further my career.
           </p>
           <div className="flex justify-center">
             <a
@@ -37,7 +37,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./Headshot.jpg"
           />
         </div>
       </div>
